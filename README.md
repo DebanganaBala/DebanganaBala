@@ -1,7 +1,7 @@
 # Hi, I’m **Debangana Bala** 👋  
 **MSc Bioinformatics & Computational Genomics**
 
-I’m passionate about integrating **biology** with **computational methods** to develop practical, data-driven solutions in genomics and bioinformatics. My goal is to work in **cross-functional roles** where I can apply programming, statistical analysis, and biological insight to support research and innovation.
+I’m passionate about integrating **biology** with **computational methods** to develop practical, data-driven solutions in genomics and bioinformatics. I aim to use my coding and Excel skills to perform effective data analysis and support decision-making across research and IT projects.
 
 ---
 
