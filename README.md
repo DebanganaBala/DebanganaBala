@@ -24,7 +24,7 @@ I enjoy using **Python, R, and Excel** to analyze complex datasets, build reprod
 
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 * **R** (tidyverse, data visualization)
-* **SQL** *(currently learning)*
+* **SQL** 
 * **Excel** (data cleaning, pivot tables, analysis)
 
 ### Bioinformatics
@@ -66,7 +66,6 @@ I am currently building additional repositories focused on:
 ## 📚 Currently Learning
 
 * Advanced **data analytics techniques**
-* **SQL for data querying**
 * **Data visualization and storytelling**
 * Machine learning fundamentals
 * Reproducible data workflows
