@@ -1,90 +1,123 @@
-# Hi, I’m **Debangana Bala** 👋
+# Hi, I'm Debangana Bala 👋
 
-**MSc Bioinformatics & Computational Genomics | Data Analysis Enthusiast**
+### Bioinformatics & Computational Genomics | Python | R | NGS Data Analysis
 
-I’m passionate about working with **data to extract meaningful insights**, combining my background in **computational genomics** with a growing interest in **data analytics and data-driven decision making**.
+I'm an MSc Bioinformatics & Computational Genomics graduate with a background in biotechnology and a strong interest in computational biology, genomics and data-driven research.
 
-I enjoy using **Python, R, and Excel** to analyze complex datasets, build reproducible workflows, and communicate insights clearly. I'm actively exploring opportunities in **data analytics, bioinformatics, and data-driven IT roles**.
+I enjoy analysing biological datasets, developing reproducible bioinformatics workflows and using computational approaches to extract meaningful insights from complex genomic data.
+
+My interests include **NGS data analysis, RNA-Seq, single-cell genomics, computational genomics and bioinformatics pipeline development**.
 
 ---
 
-## 🔍 About Me
+## 🧬 About Me
 
-* MSc in **Bioinformatics & Computational Genomics**
-* Strong interest in **data analytics and data-driven problem solving**
-* Experience analyzing **large biological datasets**
-* Comfortable working with **Python, R, Excel, and Linux environments**
-* Interested in applying **analytical thinking across scientific and business datasets**
+- 🎓 MSc in **Bioinformatics & Computational Genomics** – Queen's University Belfast.
+- 🧪 Background in Biotechnology and computational biology.
+- 💻 Experience working with biological datasets and scientific data analysis.
+- 🔬 Interested in NGS, transcriptomics, genomics and computational workflows.
+- ⚙️ Currently working in **Bioinformatics Technical Support**, gaining practical exposure to bioinformatics software, cloud infrastructure and pipeline troubleshooting.
+- 🌱 Continuously developing my skills in Python, R, SQL, Linux and workflow automation.
 
 ---
 
 ## 💻 Technical Skills
 
 ### Programming & Data Analysis
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **R:** tidyverse, Bioconductor, statistical analysis
+- **SQL:** MySQL, Oracle
+- **Bash:** Linux command-line operations and scripting
 
-* **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-* **R** (tidyverse, data visualization)
-* **SQL** 
-* **Excel** (data cleaning, pivot tables, analysis)
+### Bioinformatics & Computational Biology
+- Bulk RNA-Seq Analysis
+- Single-Cell RNA-Seq
+- NGS Data Processing
+- Differential Gene Expression Analysis
+- Genomic Data Analysis
+- Quality Control & Data Preprocessing
+- GWAS and Statistical Genetics
+- Clinical Genomics
 
-### Bioinformatics
+### Bioinformatics Tools & Technologies
+- FastQC
+- Trimmomatic
+- HISAT2
+- featureCounts
+- DESeq2
+- edgeR
+- Galaxy
+- PLINK / gPLINK
+- BLAST
+- NCBI & UniProt
 
-* RNA-Seq analysis
-* NGS data processing
-* Data preprocessing & quality control
-
-### Tools & Technologies
-
-* Git & GitHub
-* Linux / Unix
-* RStudio / Jupyter Notebook
+### Development & Infrastructure
+- Git & GitHub
+- Docker
+- Nextflow
+- AWS (Amazon S3)
+- Linux / Unix
+- Jupyter Notebook
+- RStudio
 
 ---
 
-## 📊 Featured Projects
+## 🔬 Featured Projects
 
-### 🔬 Bulk RNA-Seq Data Analysis Pipeline
+### 1. Bulk RNA-Seq Data Analysis Pipeline
 
-A reproducible pipeline for analyzing RNA-Seq datasets including preprocessing, quality control, and downstream analysis using **Bash and R**.
+A reproducible bulk RNA-Seq analysis workflow covering quality control, preprocessing, alignment, read quantification and downstream differential gene expression analysis.
 
-🔗 Project Link:
-https://github.com/DebanganaBala/Bulk-RNA-Seq-Data-Analysis
+**Tools:** Bash, FastQC, Trimmomatic, HISAT2, featureCounts, R, DESeq2, edgeR.
 
----
+🔗 [View Repository](https://github.com/DebanganaBala/Bulk-RNA-Seq-Data-Analysis)
 
-### 📈 Data Analysis Projects *(Coming Soon)*
+### 2. Single-Cell RNA-Seq Analysis
 
-I am currently building additional repositories focused on:
+Exploring single-cell transcriptomic data analysis using Bioconductor and computational approaches for processing and interpreting gene expression data at single-cell resolution.
 
-* Exploratory Data Analysis (EDA) using **Python**
-* **Data visualization** projects
-* Analysis of **real-world datasets**
-* Dashboard-style reporting using **Python or R**
+### 3. Dengue Forecasting Using Climate Data
+
+MSc research project investigating the relationship between climatic variables and dengue incidence across Vietnamese provinces using statistical modelling and machine learning approaches.
+
+**Tools:** Python, R, Bayesian Linear Regression, Machine Learning, Time-Series Analysis.
+
+### 4. GWAS Analysis – Type 1 Diabetes
+
+Exploring genetic associations using genome-wide association study data and PLINK-based analytical workflows.
+
+**Tools:** PLINK, gPLINK, Statistical Genetics.
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced **data analytics techniques**
-* **Data visualization and storytelling**
-* Machine learning fundamentals
-* Reproducible data workflows
+- Advanced Python for Bioinformatics
+- Nextflow and reproducible workflow development
+- NGS and RNA-Seq analysis
+- Single-cell transcriptomics
+- Linux, Bash and HPC
+- Machine Learning for Biological Data
+- Cloud Computing for Bioinformatics
 
 ---
 
-## 📫 Contact
+## 🎯 Areas of Interest
 
-**LinkedIn**
-https://www.linkedin.com/in/debangana-bala-84723a16a
-
-**GitHub**
-https://github.com/DebanganaBala
+- Bioinformatics
+- Computational Genomics
+- Computational Biology
+- NGS Pipeline Development
+- Transcriptomics
+- Single-Cell Genomics
+- Clinical Bioinformatics
+- Scientific Software Development
 
 ---
 
-## 🌱 Open To
+## 📫 Connect With Me
 
-* **Data Analyst roles**
-* **Bioinformatics / Computational Biology roles**
-* **Entry-level data analytics roles in IT**
-* Collaborative projects involving **data analysis or genomics**
+- **LinkedIn:** [Debangana Bala](https://www.linkedin.com/in/debangana-bala-84723a16a)
+- **GitHub:** [DebanganaBala](https://github.com/DebanganaBala)
+
+I'm always interested in connecting with researchers, bioinformaticians and developers working at the intersection of biology, computation and data science.
